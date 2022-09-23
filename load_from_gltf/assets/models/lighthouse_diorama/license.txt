@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lighthouse Diorama
+* source:	https://sketchfab.com/3d-models/lighthouse-diorama-98892e97f6c94daea6e7d72710e461e2
+* author:	Kenko_Art (https://sketchfab.com/kenko_art)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lighthouse Diorama" (https://sketchfab.com/3d-models/lighthouse-diorama-98892e97f6c94daea6e7d72710e461e2) by Kenko_Art (https://sketchfab.com/kenko_art) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

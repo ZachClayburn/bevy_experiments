@@ -5,4 +5,5 @@ members = [
     "book",
     "simple_3d",
     "simple_shader",
+    "load_from_gltf",
 ]
